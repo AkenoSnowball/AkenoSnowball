@@ -23,6 +23,6 @@ Here are the pieces of my digital puzzle:
 ---
 
 ### 📫 Connect with me
-- **LinkedIn:** [Your Link Here]
+- **GMAIL** ospinacrespoj@gmail.com
 
 *"I am not the same person I was yesterday, but I'm still building the one I'll be tomorrow."*
