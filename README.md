@@ -1,4 +1,4 @@
-# Hi! I'm JP Ospina C. (AkenoSnowball) 🌌
+# Hi! I'm Juan Pablo Ospina Crespo. (AkenoSnowball) 🌌
 
 > "Writing code to bring order to chaos. Programming is the art of solving problems we didn't even know we had."
 
