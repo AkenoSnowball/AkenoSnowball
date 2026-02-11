@@ -15,7 +15,7 @@ Here are the pieces of my digital puzzle:
 
 ---
 
-### 📈 2026 Goals
+### 📈 Goals
 - [ ] Master Backend development (Node.js/Python).
 - [ ] Contribute to my first Open Source project.
 - [ ] Build tools that create a real-world impact.
